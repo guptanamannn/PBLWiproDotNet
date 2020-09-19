@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gupta\\source\\repos\\q2\\q2\\q2.csproj": {}
+    "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\OOP Introduction\\q2\\q2\\q2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gupta\\source\\repos\\q2\\q2\\q2.csproj": {
+    "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\OOP Introduction\\q2\\q2\\q2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gupta\\source\\repos\\q2\\q2\\q2.csproj",
+        "projectUniqueName": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\OOP Introduction\\q2\\q2\\q2.csproj",
         "projectName": "q2",
-        "projectPath": "C:\\Users\\Gupta\\source\\repos\\q2\\q2\\q2.csproj",
+        "projectPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\OOP Introduction\\q2\\q2\\q2.csproj",
         "packagesPath": "C:\\Users\\Gupta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gupta\\source\\repos\\q2\\q2\\obj\\",
+        "outputPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\OOP Introduction\\q2\\q2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",

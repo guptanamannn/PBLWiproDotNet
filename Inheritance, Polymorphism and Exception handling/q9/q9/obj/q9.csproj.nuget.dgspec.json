@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet\\Inheritance, Polymorphism and Exception handling\\q9\\q9\\q9.csproj": {}
+    "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Inheritance, Polymorphism and Exception handling\\q9\\q9\\q9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet\\Inheritance, Polymorphism and Exception handling\\q9\\q9\\q9.csproj": {
+    "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Inheritance, Polymorphism and Exception handling\\q9\\q9\\q9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet\\Inheritance, Polymorphism and Exception handling\\q9\\q9\\q9.csproj",
+        "projectUniqueName": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Inheritance, Polymorphism and Exception handling\\q9\\q9\\q9.csproj",
         "projectName": "q9",
-        "projectPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet\\Inheritance, Polymorphism and Exception handling\\q9\\q9\\q9.csproj",
+        "projectPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Inheritance, Polymorphism and Exception handling\\q9\\q9\\q9.csproj",
         "packagesPath": "C:\\Users\\Gupta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet\\Inheritance, Polymorphism and Exception handling\\q9\\q9\\obj\\",
+        "outputPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Inheritance, Polymorphism and Exception handling\\q9\\q9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",

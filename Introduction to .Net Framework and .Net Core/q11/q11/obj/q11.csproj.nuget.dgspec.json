@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gupta\\Desktop\\Wipro\\repos\\q11\\q11\\q11.csproj": {}
+    "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Introduction to .Net Framework and .Net Core\\q11\\q11\\q11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gupta\\Desktop\\Wipro\\repos\\q11\\q11\\q11.csproj": {
+    "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Introduction to .Net Framework and .Net Core\\q11\\q11\\q11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gupta\\Desktop\\Wipro\\repos\\q11\\q11\\q11.csproj",
+        "projectUniqueName": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Introduction to .Net Framework and .Net Core\\q11\\q11\\q11.csproj",
         "projectName": "q11",
-        "projectPath": "C:\\Users\\Gupta\\Desktop\\Wipro\\repos\\q11\\q11\\q11.csproj",
+        "projectPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Introduction to .Net Framework and .Net Core\\q11\\q11\\q11.csproj",
         "packagesPath": "C:\\Users\\Gupta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gupta\\Desktop\\Wipro\\repos\\q11\\q11\\obj\\",
+        "outputPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Introduction to .Net Framework and .Net Core\\q11\\q11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",

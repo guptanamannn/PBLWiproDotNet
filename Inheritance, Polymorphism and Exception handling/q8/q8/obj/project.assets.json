@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet\\Inheritance, Polymorphism and Exception handling\\q8\\q8\\q8.csproj",
+      "projectUniqueName": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Inheritance, Polymorphism and Exception handling\\q8\\q8\\q8.csproj",
       "projectName": "q8",
-      "projectPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet\\Inheritance, Polymorphism and Exception handling\\q8\\q8\\q8.csproj",
+      "projectPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Inheritance, Polymorphism and Exception handling\\q8\\q8\\q8.csproj",
       "packagesPath": "C:\\Users\\Gupta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet\\Inheritance, Polymorphism and Exception handling\\q8\\q8\\obj\\",
+      "outputPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Inheritance, Polymorphism and Exception handling\\q8\\q8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",

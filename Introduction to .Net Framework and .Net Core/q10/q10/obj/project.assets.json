@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gupta\\Desktop\\Wipro\\repos\\q10\\q10\\q10.csproj",
+      "projectUniqueName": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Introduction to .Net Framework and .Net Core\\q10\\q10\\q10.csproj",
       "projectName": "q10",
-      "projectPath": "C:\\Users\\Gupta\\Desktop\\Wipro\\repos\\q10\\q10\\q10.csproj",
+      "projectPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Introduction to .Net Framework and .Net Core\\q10\\q10\\q10.csproj",
       "packagesPath": "C:\\Users\\Gupta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gupta\\Desktop\\Wipro\\repos\\q10\\q10\\obj\\",
+      "outputPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Introduction to .Net Framework and .Net Core\\q10\\q10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",

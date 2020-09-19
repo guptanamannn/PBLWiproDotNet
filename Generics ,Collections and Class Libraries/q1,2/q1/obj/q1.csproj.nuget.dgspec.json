@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet\\Generics ,Collections and Class Libraries\\q1\\q1\\q1.csproj": {}
+    "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Generics ,Collections and Class Libraries\\q1,2\\q1\\q1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet\\Generics ,Collections and Class Libraries\\q1\\q1\\q1.csproj": {
+    "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Generics ,Collections and Class Libraries\\q1,2\\q1\\q1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet\\Generics ,Collections and Class Libraries\\q1\\q1\\q1.csproj",
+        "projectUniqueName": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Generics ,Collections and Class Libraries\\q1,2\\q1\\q1.csproj",
         "projectName": "q1",
-        "projectPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet\\Generics ,Collections and Class Libraries\\q1\\q1\\q1.csproj",
+        "projectPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Generics ,Collections and Class Libraries\\q1,2\\q1\\q1.csproj",
         "packagesPath": "C:\\Users\\Gupta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet\\Generics ,Collections and Class Libraries\\q1\\q1\\obj\\",
+        "outputPath": "C:\\Users\\Gupta\\Desktop\\PBLWiproDotNet-master\\Generics ,Collections and Class Libraries\\q1,2\\q1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
